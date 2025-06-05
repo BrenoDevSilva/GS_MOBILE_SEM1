@@ -50,10 +50,8 @@ Aplicativo React Native que registra e gerencia informações sobre apagões em 
 │   ├── /storage           → Funções de manipulação com AsyncStorage
 │   ├── /theme.js          → Paleta de cores e fonte global
 │   └── App.jsx            → Configuração de navegação
-│
-├── assets/                → Imagens e ícones
-├── package.json
-└── README.md
+├──
+
 ```
 
 ## 📦 Estrutura de Dados
